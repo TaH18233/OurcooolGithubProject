@@ -1,0 +1,18 @@
+#canvas{
+	display:block;
+	margin:auto;
+	border:1px #000 solid;
+	background-image:url(images/shooterground.png);	
+}
+
+#canvas:hover{
+	cursor:url(Alternate%20Select(1).cur) 32 32,auto;
+}
+h1{
+	text-align:center;
+}
+
+body{
+	background-image:url(images/richtpunt.cur);
+}
+
